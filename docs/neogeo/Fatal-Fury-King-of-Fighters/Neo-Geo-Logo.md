@@ -30,17 +30,21 @@ Asus4:A D E
 
 --
 伴奏
-1〜2小節
+G7sus4
 G4 C5 D5 F5 
 G5 F5 D5 C5 D5 
 G4 C5 D5 D5 G4 C5 D5 
+
+A7sus4
 A4 D5 E5 G5 A5 G5 E5 D5 E5 
 A4 D5 E5 E5 
 A4 D5 E5 C5 E5 
-G5 B♭5 C6 B♭5 G5 E5 B♭5 
 
-3〜4小節
+C7
+G5 B♭5 C6 B♭5 G5 E5 B♭5 
 C5 E5 G5 B♭5 
+
+Asus4
 C5 E5 G5
 A4 D5 E5 A5 
 A4 D5 E5 A5 
