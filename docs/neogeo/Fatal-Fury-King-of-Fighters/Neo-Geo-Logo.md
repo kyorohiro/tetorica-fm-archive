@@ -48,7 +48,8 @@ A4 D5 E5 A5
 
 # MML 
 
-for https://delacannon.itch.io/opnavoid
+for (https://delacannon.itch.io/opnavoid)[https://delacannon.itch.io/opnavoid]
+at (tetorica fm2612)[https://kyorohiro.github.io/hello_ymfm_wasm/] の (VGM Analyzer)[https://kyorohiro.github.io/hello_ymfm_wasm/vgm_analyzer/index.html] で 変換
 
 ```
 ; VGM Analyzer MML for OPNAvoid (PMD-style dialect)
