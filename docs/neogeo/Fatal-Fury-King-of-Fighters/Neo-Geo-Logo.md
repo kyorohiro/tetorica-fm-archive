@@ -48,8 +48,9 @@ A4 D5 E5 A5
 
 # MML 
 
-[OPNAVOID](https://delacannon.itch.io/opnavoid)
-[tetorica-fm-archive](https://kyorohiro.github.io/tetorica-fm-archive/) の [VGM Analyzer](https://kyorohiro.github.io/tetorica-fm-archive/vgm_analyzer/index.html) で変換
+#### [OPNAVOID](https://delacannon.itch.io/opnavoid) 向け
+
+[hello ymfm wasm](https://kyorohiro.github.io/hello_ymfm_wasm/) の [Tetorica VGM Analyzer](https://kyorohiro.github.io/tetorica-fm-archive/vgm_analyzer/index.html) で変換
 
 ```
 ; VGM Analyzer MML for OPNAvoid (PMD-style dialect)
@@ -144,7 +145,9 @@ F @10 e16 @23 a16 @12 o4 a16 @24 o5 d16 @13 e16 @25 a16 @15 o4 a16 @26 o5 d16 @2
 
 
 
-MUCOM88 は [WebPlay](https://aosoft.github.io/MucomWeb.Play/) で確認
+#### MUCOM88 向け 
+
+[WebPlay](https://aosoft.github.io/MucomWeb.Play/) で確認
 
 
 ```
