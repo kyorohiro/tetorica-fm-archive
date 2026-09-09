@@ -24,22 +24,23 @@ Asus4:A D E
 ```
 メロディ
 
+（休符を省略したフレーズ表記）
 1小節 G5 E5 B5 A5
-2小節 C6 B5 G5 A5
+3小節 C6 B5 G5 A5
 
 --
 伴奏
-1小節
+1〜2小節
 G4 C5 D5 F5 
 G5 F5 D5 C5 D5 
 G4 C5 D5 D5 G4 C5 D5 
 A4 D5 E5 G5 A5 G5 E5 D5 E5 
 A4 D5 E5 E5 
 A4 D5 E5 C5 E5 
-G5 A#5 C6 A#5 G5 E5 A#5 
+G5 B♭5 C6 B♭5 G5 E5 B♭5 
 
-2小節
-C5 E5 G5 A#5 
+3〜4小節
+C5 E5 G5 B♭5 
 C5 E5 G5
 A4 D5 E5 A5 
 A4 D5 E5 A5 
