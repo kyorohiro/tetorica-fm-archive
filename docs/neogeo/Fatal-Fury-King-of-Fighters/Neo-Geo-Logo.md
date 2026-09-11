@@ -57,7 +57,7 @@ A4 D5 E5 A5
 
 #### [OPNAVOID](https://delacannon.itch.io/opnavoid) 向け
 
-[hello ymfm wasm](https://kyorohiro.github.io/hello_ymfm_wasm/) の [Tetorica VGM Analyzer](https://kyorohiro.github.io/tetorica-fm-archive/vgm_analyzer/index.html) で変換
+[hello ymfm wasm](https://kyorohiro.github.io/hello_ymfm_wasm/) の [Tetorica VGM Analyzer](https://kyorohiro.github.io/hello_ymfm_wasm/vgm_analyzer/index.html) で変換
 
 ```
 ; VGM Analyzer MML for OPNAvoid (PMD-style dialect)
