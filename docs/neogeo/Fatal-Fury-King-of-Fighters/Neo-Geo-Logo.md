@@ -53,7 +53,24 @@ A4 D5 E5 A5
 
 ```
 
-### 音色 
+### VGM Info
+
+#### Meta
+
+```
+Track: Neo-Geo Logo
+Game: Fatal Fury - King of Fighters / Garou Densetsu - shukumei no tatakai
+Game (original language): 餓狼伝説 - 宿命の闘い
+System: Neo Geo
+System (original language): ネオジオ
+Composer / Author: Shinsekai Gakkyoku Zatsugidan
+Composer / Author (original language): 新世界楽曲雑技団
+Release date: 1991
+VGM creator: Duchemole
+Notes: Sound ID: 02
+```
+
+#### 音色 
 
 [tfi](./Neo-Geo-Logo/tfi.zip)
 
