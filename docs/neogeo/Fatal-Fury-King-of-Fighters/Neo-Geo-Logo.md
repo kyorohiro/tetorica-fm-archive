@@ -53,6 +53,10 @@ A4 D5 E5 A5
 
 ```
 
+### 音色 
+
+[tfi](./Neo-Geo-Logo/tfi.zip)
+
 # MML 
 
 #### [OPNAVOID](https://delacannon.itch.io/opnavoid) 向け
