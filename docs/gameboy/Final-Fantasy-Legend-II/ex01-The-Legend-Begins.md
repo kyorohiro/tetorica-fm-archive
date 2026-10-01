@@ -10,6 +10,16 @@ Game Boy版の演奏データを、音源操作を追う表記と、音符・フ
 | [codex.js](./ex01-The-Legend-Begins/codex.js) | 元のAPI操作・順序・論理上のサンプル時刻を保ち、音程やエンベロープに名前を付けた版。 |
 | [high.js](./ex01-The-Legend-Begins/high.js) | 比較の基準となる、音源API操作と待機を並べた変換コード。 |
 
+## Playgroundで試す
+
+1. 上のリンクから試したいコードを開き、ファイル全体をコピーする。GitHub上では「Raw」を開くとコピーしやすい。
+2. [Tetorica Playground](https://kyorohiro.github.io/hello_ymfm_wasm/playground/index.html) を開く。
+3. エディターのコードをコピーした内容に置き換えて実行する。
+
+`codex_mml.js` もJavaScriptとして実行する。MML風の譜面だけでなく、末尾の再生処理まで含めてコピーする。
+
+このリンクではコードは自動入力されないため、コピー＆ペーストで試してください。
+
 ## 読みやすさの所感
 
 MML風の表記は、旋律と伴奏の繰り返しを追いやすい。たとえば `o4 l8 d4 d4 a1` で音符と長さを読み、`$D` で伴奏フレーズ、`@pluck8` → `@pluck6` → `@pluck4` → `@pluck2` で音量の変化を確認できる。
